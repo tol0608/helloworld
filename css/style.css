@@ -1,11 +1,11 @@
 @font-face {
     font-family: 'tenada';
-    src: url(font/Tenada.woff);
+    src: url(../font/Tenada.woff);
 }
 
 @font-face {
     font-family: 'gmarket';
-    src: url(font/Gmarketsansm.woff);
+    src: url(../font/Gmarketsansm.woff);
 }
 
 @font-face {
